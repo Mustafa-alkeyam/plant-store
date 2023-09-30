@@ -53,3 +53,6 @@ body{
     grid-template-columns: auto auto auto;
     grid-gap: 100px;
 }
+.container{
+    margin: 75px;
+}
